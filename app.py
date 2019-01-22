@@ -1,1 +1,1 @@
-APP_FILE=helloworld.py
+APP_FILE="./helloworld.py"
