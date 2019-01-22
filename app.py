@@ -1,1 +1,1 @@
-print("hellloooo")
+APP_FILE=helloworld.py
